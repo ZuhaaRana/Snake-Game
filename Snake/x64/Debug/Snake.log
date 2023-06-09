@@ -1,0 +1,26 @@
+﻿  GameWillRun.cpp
+C:\Users\Zuha Rana\Desktop\Snake\GameWillRun.h(200,14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Zuha Rana\Desktop\Snake\GameWillRun.h(264,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Zuha Rana\Desktop\Snake\GameWillRun.h(296,87): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Zuha Rana\Desktop\Snake\GameWillRun.h(296,74): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Zuha Rana\Desktop\Snake\GameWillRun.h(303,87): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Zuha Rana\Desktop\Snake\GameWillRun.h(303,74): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Zuha Rana\Desktop\Snake\GameWillRun.h(317,89): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Zuha Rana\Desktop\Snake\GameWillRun.h(317,76): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Zuha Rana\Desktop\Snake\GameWillRun.h(326,88): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Zuha Rana\Desktop\Snake\GameWillRun.h(326,75): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  MyForm.cpp
+C:\Users\Zuha Rana\Desktop\Snake\GameWillRun.h(200,14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Zuha Rana\Desktop\Snake\GameWillRun.h(264,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Zuha Rana\Desktop\Snake\GameWillRun.h(296,87): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Zuha Rana\Desktop\Snake\GameWillRun.h(296,74): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Zuha Rana\Desktop\Snake\GameWillRun.h(303,87): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Zuha Rana\Desktop\Snake\GameWillRun.h(303,74): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Zuha Rana\Desktop\Snake\GameWillRun.h(317,89): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Zuha Rana\Desktop\Snake\GameWillRun.h(317,76): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Zuha Rana\Desktop\Snake\GameWillRun.h(326,88): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Zuha Rana\Desktop\Snake\GameWillRun.h(326,75): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Generating Code...
+  GameWillRun.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+LINK : fatal error LNK1561: entry point must be defined
